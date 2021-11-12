@@ -1,0 +1,4 @@
+<parameter name="Browser" value="chrome"/>
+<parameter name="Url" value="http://localhost:8888"/>
+<parameter name="Username" value="admin"/>
+<parameter name="Password" value="admin"/>
