@@ -7,7 +7,7 @@ public class SampleClass{
 	
 @Test(retryAnalyzer=com.crm.comcast.genericutility.RetryAnalyser.class)
 public void sampletest() {
-		Reporter.log("creating org", true);
+		Reporter.log("creating or", true);
 		Assert.fail();
 }
 }
